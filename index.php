@@ -95,7 +95,7 @@
         </li>
         <li><span class="skill-name">DevOps</span>
             <div class="skill-level-bar">
-                <div class="skill-level-fill" style="width: 100%;"></div>
+                <div class="skill-level-fill" style="width: 40%;"></div>
             </div>
         </li>
     </ul>
