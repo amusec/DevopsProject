@@ -69,7 +69,7 @@
 
 <div class="container">
     <h2>About Me</h2>
-    <p>I am a passionate developer skilled in Java, PHP, and Bash scripting.</p>
+    <p>I am a passionate developer skilled in Java, PHP, Python, Bash scripting, and DevOps.</p>
 
     <h2>Skills</h2>
     <ul class="skills-list">
@@ -83,9 +83,19 @@
                 <div class="skill-level-fill" style="width: 80%;"></div>
             </div>
         </li>
+        <li><span class="skill-name">Python</span>
+            <div class="skill-level-bar">
+                <div class="skill-level-fill" style="width: 90%;"></div>
+            </div>
+        </li>
         <li><span class="skill-name">Bash</span>
             <div class="skill-level-bar">
                 <div class="skill-level-fill" style="width: 40%;"></div>
+            </div>
+        </li>
+        <li><span class="skill-name">DevOps</span>
+            <div class="skill-level-bar">
+                <div class="skill-level-fill" style="width: 30%;"></div>
             </div>
         </li>
     </ul>
